@@ -34,7 +34,6 @@ The dataset contains 16,638 movie records and was analyzed to find useful insigh
 ![Dashboard Preview])
 
 ## Files Included
-- `dashboard.xlsx` - Final Excel dashboard
 - `dataset.csv` - Movie dataset
 - `dashboard-screenshot.png` - Dashboard preview image
 
